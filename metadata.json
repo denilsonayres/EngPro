@@ -1,0 +1,6 @@
+{
+  "name": "MecânicaOS",
+  "description": "SaaS B2B para oficinas de engenharia mecânica: recepção técnica, checklist de entrada com fotos, orçamentos, relatórios em PDF e portal do cliente para acompanhamento em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
